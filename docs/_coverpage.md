@@ -1,11 +1,9 @@
-![logo](imgs/myscancode.jpg)
+# docsify <small>3.5</small>
 
-# api 
+> 一个神奇的文档网站生成器。
 
-> 这是 xx 管理系统的 api 
+- 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
 
-* 简单明了
-* 自带演示地址
-
-[GitHub](https://github.com/githubchen001)
-[Get Started](#)
+[GitHub](https://github.com/docsifyjs/docsify/)

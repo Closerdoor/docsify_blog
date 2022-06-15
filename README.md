@@ -1,3 +1,6 @@
+## 官网
+https://docsify.js.org/#/zh-cn/more-pages
+
 ## 目录结构
 - docs
     - en  => 英文版目录
@@ -10,6 +13,9 @@
     - README.md => 默认展示的首页对应界面
 
 ## 运行
-```
+```js
+//需要先全局安装docsify
+npm i docsify-cli -g
+
 docsify serve docs(文件夹目录)
 ```
