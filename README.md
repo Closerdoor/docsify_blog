@@ -17,5 +17,7 @@ https://docsify.js.org/#/zh-cn/more-pages
 //需要先全局安装docsify
 npm i docsify-cli -g
 
+docsify -v //验证是否安装成功
+
 docsify serve docs(文件夹目录)
 ```
