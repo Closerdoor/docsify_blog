@@ -20,8 +20,10 @@
   <script>
     window.$docsify = {
       el: "#app",
-      name: 'My Wiki', // 文档标题，显示在侧栏顶部。置空不显示
+      name: 'Wicked’s Blog', // 文档标题，显示在侧栏顶部。置空不显示
       nameLink: '/', // 点击文档标题后跳转的链接地址。
+      loadNavbar: true, // 加载导航栏(需要编写_navbar.md)
+      coverpage: false, // 设置封装面(需要编写_coverpage.md)
       repo: 'https://github.com/Closerdoor', //渲染github挂件。github仓库地址，显示在页面右上角，置空不显示
       loadSidebar: true, // 加载侧边栏(需要编写_sidebar.md)
       autoHeader: true, //配合loadSidebar 自动添加标题
@@ -33,8 +35,7 @@
       //   '/.*/_sidebar.md': '/_sidebar.md'
       // },
 
-      loadNavbar: true, // 加载导航栏(需要编写_navbar.md)
-      coverpage: false, // 设置封装面(需要编写_coverpage.md)
+      
       //全局搜索
       search: {
         paths: 'auto',
@@ -71,6 +72,7 @@
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <!-- 代码高亮——json -->
   <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-javascript.min.js"></script>
 </body>
 
 </html>

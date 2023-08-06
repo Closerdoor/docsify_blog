@@ -1,9 +1,6 @@
-# docsify <small>3.5</small>
+# 鄙人不善做题
 
-> 一个神奇的文档网站生成器。
-
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 本文档是作者 wicked 一路刷算法的学习历程。
 
 [GitHub](https://github.com/docsifyjs/docsify/)
+[马上开始](#main)
