@@ -29,6 +29,8 @@
   - [简单排序](algorithm/sort/index.md)
   - [归并排序](algorithm/sort/mergeSort.md)
   - [快速排序](algorithm/sort/quickSort.md)
+  - [堆排序](algorithm/sort/heapSort.md)
+  - [基数排序](algorithm/sort/radixSort.md)
 
 - 递归
 
