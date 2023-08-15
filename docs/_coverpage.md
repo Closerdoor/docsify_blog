@@ -1,4 +1,4 @@
-<img src="_media/icon-left-font-monochrome-black.png"  width="400" />
+<img src="imgs/icon-left-font-monochrome-black.png"  width="400" />
 
 # 鄙人不善做题
 
