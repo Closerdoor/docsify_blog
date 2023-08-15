@@ -1,6 +1,8 @@
+<img src="_media/icon-left-font-monochrome-black.png"  width="400" />
+
 # 鄙人不善做题
 
-- 本文档是作者 wicked 一路刷算法的学习历程。
+> 处于萌芽阶段的 javascript 算法学习知识库。
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[马上开始](#main)
+[Get Started](#main)
