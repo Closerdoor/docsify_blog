@@ -26,6 +26,7 @@
   - [数组](algorithm/array/index.md)
 
 - 排序
+  - [排序总结](algorithm/sort/summary.md)
   - [简单排序](algorithm/sort/index.md)
   - [归并排序](algorithm/sort/mergeSort.md)
   - [快速排序](algorithm/sort/quickSort.md)
